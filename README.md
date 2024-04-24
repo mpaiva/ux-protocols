@@ -17,7 +17,7 @@ The purpose of these usability studies is to develop products that are accessibl
 
 ### How we employ AI assistance
 
-These resources were meticulously crafted by experienced UX professionals. To enhance the comprehensiveness and effectiveness of these protocols, we have employed a unique approach by incorporating insights generated with the assistance of artificial intelligence. By combining human expertise with advanced technology, we aim to foster greater innovation and inclusivity in UX design. 
+Our [UX Protocol Template](/uxp-template.md) was meticulously crafted by experienced UX professionals. To enhance the comprehensiveness and effectiveness of these protocols, we have employed the assistance of artificial intelligence to generate plain language insights. By combining human expertise with advanced technology, we aim to foster greater innovation and inclusivity in UX design. 
 
 We are committed to transparency in our development process and openly acknowledge the role of artificial intelligence in shaping these protocols. Alongside AI contributions, we ensure that all content undergoes thorough human reviews to maintain ethical standards and relevance to real-world applications. This balanced approach guarantees that our methodologies are not only innovative but also ethically sound and practically effective.
 
