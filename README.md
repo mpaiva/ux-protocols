@@ -1,6 +1,6 @@
 # Inclusive UX Protocols for Usability Studies
 
-Welcome to the repository of Inclusive UX Protocols, a comprehensive collection of guidelines designed to enhance usability studies by incorporating the needs of diverse user groups. This collection aims to ensure that digital products are accessible and user-friendly for everyone, regardless of their abilities or circumstances.
+Welcome to Inclusive UX Protocols, a comprehensive collection of guidelines designed to enhance usability studies by incorporating the needs of diverse user groups. This collection aims to ensure that digital products are accessible and user-friendly for everyone, regardless of their abilities or circumstances.
 
 ## About the Protocols
 
