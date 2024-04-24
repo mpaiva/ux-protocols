@@ -6,6 +6,11 @@ Welcome to the repository of Inclusive UX Protocols, a comprehensive collection 
 
 These protocols provide a structured approach to conducting usability studies that are inclusive of individuals with various disabilities and backgrounds. Each protocol is tailored to specific user needs, promoting empathy and understanding in UX design.
 
+
+## Disclaimer
+These protocols are for guidance only and are continuously improved with community feedback and expert contributions. We invite all interested parties—researchers, designers, advocates, and users themselves—to share their experiences, suggest modifications, and propose new user groups. Your input will help us ensure that our protocols are comprehensive, up-to-date, and truly reflective of the needs of all users. Together, we can create more inclusive digital environments that cater to everyone's needs.
+
+
 ### Objective
 
 The purpose of these usability studies is to develop products that are accessible to all, emphasizing the importance of inclusivity. These protocols help identify and overcome potential barriers in product interaction that different groups might face.
@@ -14,6 +19,12 @@ The purpose of these usability studies is to develop products that are accessibl
 
 This collection covers a broad range of disabilities and user groups, including, but not limited to:
 - Visual and hearing impairments
+  - [Blindness](/protocols/ada-blind.md)
+  - [Low-vision](/protocols/ada-low-vision.md)
+  - [Color Blindness](/protocols/ada-color-blind.md)
+  - [Deaf-blindness](/protocols/ada-deaf-blind.md)
+  - Hard of hearing
+  - Deaf
 - Motor disabilities
 - Neurodiversity
 - Speech disabilities
@@ -21,7 +32,7 @@ This collection covers a broad range of disabilities and user groups, including,
 - Elderly and young users
 - Users in rural or remote areas
 - Economically disadvantaged users
-- And many more
+- And and many more. Take a moment to [review our backlog of UX protocols](/protocols/README.md).
 
 ## Protocol Structure
 
@@ -60,13 +71,14 @@ We welcome contributions from the community to help expand and refine these prot
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [MIT LICENSE](MIT-LICENSE.txt) file for details.
 
 ## Acknowledgments
 
 Thank you to all the participants, researchers, and advocates who contribute to making technology accessible and usable for everyone.
 
 ---
+
 
 We believe that technology should be inclusive and accessible. Join us in making this a reality by supporting and using these UX Protocols in your projects and studies.
 
