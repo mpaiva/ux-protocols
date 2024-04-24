@@ -15,6 +15,12 @@ These protocols are for guidance only and are continuously improved with communi
 
 The purpose of these usability studies is to develop products that are accessible to all, emphasizing the importance of inclusivity. These protocols help identify and overcome potential barriers in product interaction that different groups might face.
 
+### How we employ AI assistance
+
+These resources were meticulously crafted by experienced UX professionals. To enhance the comprehensiveness and effectiveness of these protocols, we have employed a unique approach by incorporating insights generated with the assistance of artificial intelligence. By combining human expertise with advanced technology, we aim to foster greater innovation and inclusivity in UX design. 
+
+We are committed to transparency in our development process and openly acknowledge the role of artificial intelligence in shaping these protocols. Alongside AI contributions, we ensure that all content undergoes thorough human reviews to maintain ethical standards and relevance to real-world applications. This balanced approach guarantees that our methodologies are not only innovative but also ethically sound and practically effective.
+
 ### Scope
 
 This collection covers a broad range of disabilities and user groups, including, but not limited to:
