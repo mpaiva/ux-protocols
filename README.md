@@ -42,7 +42,7 @@ This collection covers a broad range of disabilities and user groups, including,
 
 ## Protocol Structure
 
-Each protocol includes the following sections:
+Each protocol includes the following sections, as specified in the [UX Protocol Template](/uxp-template.md):
 
 1. **User Personas and Use Cases**
    - Development through interviews and collaboration with advocates.
