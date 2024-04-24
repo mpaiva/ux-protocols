@@ -44,6 +44,8 @@ This collection covers a broad range of disabilities and user groups, including,
 
 Each protocol includes the following sections, as specified in the [UX Protocol Template](/uxp-template.md):
 
+---- 
+
 1. **User Personas and Use Cases**
    - Development through interviews and collaboration with advocates.
    - Detailed persona elements including background, technology preferences, and challenges.
@@ -65,11 +67,14 @@ Each protocol includes the following sections, as specified in the [UX Protocol 
    - Identification and implementation of effective UX patterns.
    - Adaptation of these patterns to meet diverse needs.
 
-## Additional Resources
+7. **Additional Resources**
+   - **Feedback Mechanisms:** Ensuring all participants can provide valuable insights into the usability process.
+   - **Continuous Improvement:** Regular updates to the protocols based on participant feedback and new research.
 
-- **Feedback Mechanisms:** Ensuring all participants can provide valuable insights into the usability process.
-- **Continuous Improvement:** Regular updates to the protocols based on participant feedback and new research.
-- **Appendix:** Includes a glossary and a comprehensive list of resources and contacts for further assistance.
+8. **Appendix:** 
+   - Includes a glossary and a comprehensive list of resources and contacts for further assistance.
+
+----
 
 ## Contributing
 
